@@ -28,9 +28,10 @@ Output :
 1. Loan creation date : 10th April 2020
 2. Principal Amount : 1,000
 3. No Of EMI’s : 12
-4. Total payable amount : 1,000 (Principal)
-+ 120 (Interest for 12 months) = 1,120
+4. Total payable amount : 1,000 (Principal) + 120 (Interest for 12 months) = 1,120
+
 5. EMI Details :
+
 a. EMI No : 1, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th May 2020, Principal remaining : 1026.67
 
@@ -61,8 +62,8 @@ i. EMI No : 9, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 j. EMI No : 10, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th Feb 2021, Principal remaining : 186.70
 
-k. EMI No : 11, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
-93.33, EMI Date : 10th March 2021, Principal remaining : 93.37
+k. EMI No : 11, Principal EMI : 83.33, Interest EMI = 10, Total EMI=
+93.33, EMI Date : 10th March 2021, Principal remaining: 93.37
 
 l. EMI No : 12, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th April 2021, Principal remaining : ~0
