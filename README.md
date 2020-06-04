@@ -5,7 +5,7 @@ The loan is to be considered as a high-level module. The objective of the progra
 
 1. Principal amount
 2. Loan creation date
-3. No of EMI’s (should be an array)
+3. No of EMI’s
 4. Each EMI should have the following
 a. Principal EMI amount
 b. Interest EMI amount
