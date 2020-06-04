@@ -33,25 +33,36 @@ Output :
 5. EMI Details :
 a. EMI No : 1, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th May 2020, Principal remaining : 1026.67
+
 b. EMI No : 2, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th June 2020, Principal remaining : 933.34
+
 c. EMI No : 3, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th July 2020, Principal remaining : 840.01
+
 d. EMI No : 4, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th Aug 2020, Principal remaining : 746.68
+
 e. EMI No : 5, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th Sept 2020, Principal remaining : 653.35
+
 f. EMI No : 6, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th Oct 2020, Principal remaining : 560.02
+
 g. EMI No : 7, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th Nov 2020, Principal remaining : 466.69
+
 h. EMI No : 8, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th Dec 2020, Principal remaining : 373.36
+
 i. EMI No : 9, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th Jan 2021, Principal remaining : 280.03
+
 j. EMI No : 10, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th Feb 2021, Principal remaining : 186.70
+
 k. EMI No : 11, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th March 2021, Principal remaining : 93.37
+
 l. EMI No : 12, Principal EMI : 83.33, Interest EMI = 10, Total EMI =
 93.33, EMI Date : 10th April 2021, Principal remaining : ~0
